@@ -1,0 +1,23 @@
+body {
+    background-color: #10517b;
+    color: #fff;
+    padding: 10px;
+}
+
+dl {
+    background-color: #15606b;
+    width: 50%;
+    margin: 0 auto;
+}
+dt {
+    border: 1px solid #fff;
+    padding: 5px;
+    margin-bottom:  1em;
+}
+dd{
+    margin: 0px;
+}
+dd li{
+    list-style: none;;
+}
+
